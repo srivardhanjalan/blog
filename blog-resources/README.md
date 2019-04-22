@@ -6,4 +6,3 @@
 | Lambda              |
 | API Gateway         |
 | S3                  |
-      
